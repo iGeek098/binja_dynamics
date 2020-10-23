@@ -1,3 +1,5 @@
+#! /bin/sh
+
 # Install base dependencies from apt
 sudo apt update
 sudo apt install git lldb gcc
